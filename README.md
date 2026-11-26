@@ -1,5 +1,3 @@
-# songam
-sóng truyền trong âm thanh 
 from pathlib import Path
 
 html = r'''<!DOCTYPE html>
